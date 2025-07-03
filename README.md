@@ -2,7 +2,7 @@
 
 A modern, feature-rich real-time chat application built with Next.js 14, Firebase, and Tailwind CSS. This application provides seamless messaging experiences with user authentication, real-time messaging, emoji support, and beautiful UI components.
 
-![Chat App Demo](https://img.shields.io/badge/Next.js-14.0.3-black?style=for-the-badge&logo=next.js)
+![Chat App Demo](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Firebase](https://img.shields.io/badge/Firebase-10.7.0-orange?style=for-the-badge&logo=firebase)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-38B2AC?style=for-the-badge&logo=tailwind-css)
